@@ -1,2 +1,2 @@
 # DE
-Data Science Internship task One Segmantation of Custommer usin KNN
+Data Science Internship Digital Empowerment Pakistan
